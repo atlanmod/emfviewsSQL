@@ -10,6 +10,7 @@ Some users only need to see some parts of a model,  others have to get the full 
 Screencasts
 -----------
 These screencasts provide a smattering of the capabilities of this project:
+* [SQL-like DSL to EMF Views] (http://youtu.be/cds_DU_VJcM)
 * [EMF Views](https://www.youtube.com/watch?v=KoCiV8fvNj8)
 * [Virtual Views](https://www.youtube.com/watch?v=JRjCqyTM2x8)
 * [Demo EMFViews](https://www.youtube.com/watch?v=Lo4kz6Hx3Kg)
@@ -32,10 +33,14 @@ Plugins concerning the DSL to define viewpoints:
 * emfviews.dsl.tests
 * emfviews.dsl.ui
 
+ATL project:
+* SQL2VirtualLinks: transformation to generate virtual links model from DSL model
+
 Examples:
 
 * 1_EAdata: metamodels and models to be used in the viewpoint and view
 * 2_EAview: Example to create views from EA, BPMN, reqif
+* EMFViewsSQLTest: Example of view definiton with the DSL
 
 Who is behind this project?
 ---------------------------
